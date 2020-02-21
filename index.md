@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区首南中路浙江万里大学，</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/IMG_20191116_140934.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
